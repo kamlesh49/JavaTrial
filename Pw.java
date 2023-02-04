@@ -5,7 +5,7 @@ public void m1()
 	//code
  }
 {
-public void m1()
+public void m2()
  {
 	//code
  }
